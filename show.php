@@ -1,4 +1,4 @@
-
+<h2 style="text-align:center;color:blue;">List Of All records </h2>
 
 <?php
 
